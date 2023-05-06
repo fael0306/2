@@ -1,6 +1,6 @@
 Questão 2 da Lista 1 (Séries e Sequências) de Cálculo IV da professora Cristiane.
 
-###ENUNCIADO###
+##ENUNCIADO##
 
 Se você depositar 100 reais no final de cada mês em uma conta que paga juros de 3% ao ano com capitalização mensal, o montante de juros acumulados após n meses é dada pela sequência
 
