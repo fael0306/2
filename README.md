@@ -6,5 +6,5 @@ Se você depositar 100 reais no final de cada mês em uma conta que paga juros d
 
 ![image](https://user-images.githubusercontent.com/25599308/236597766-096c89ab-e7a5-4313-8b7f-b39bbcde4714.png)
 
-a) Encontre os seis primeiros termos da sequência
+a) Encontre os seis primeiros termos da sequência<br>
 b) O quanto de juros você terá ganhado depois de dois anos?
